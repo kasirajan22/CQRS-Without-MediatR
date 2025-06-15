@@ -244,26 +244,6 @@ Use the deployment script for automated deployment:
 .\scripts\deployment\deploy.ps1 -SkipTests -SkipDatabase
 ```
 
-## 🧪 Testing
-
-The project structure supports comprehensive testing:
-
-- **Unit Tests**: Test individual components in isolation
-- **Integration Tests**: Test feature workflows end-to-end
-- **Architecture Tests**: Enforce architectural rules
-
-## 🤝 Contributing
-
-1. Follow the established project structure
-2. Add comprehensive validation for new commands
-3. Include XML documentation for public APIs
-4. Write unit tests for new features
-5. Update documentation for significant changes
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Troubleshooting
 
 - **Database Issues**: See [Setup_Instructions.md](docs/Setup_Instructions.md)
