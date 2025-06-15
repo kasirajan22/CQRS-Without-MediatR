@@ -1,0 +1,11 @@
+/.qodo
+src/CQRS.Api/bin/
+src/CQRS.Api/obj/
+src/CQRS.Application/bin/
+src/CQRS.Application/obj/
+src/CQRS.Domain/bin/
+src/CQRS.Domain/obj/
+src/CQRS.Infrastructure/bin/
+src/CQRS.Infrastructure/obj/
+src/CQRS.Shared/obj/
+src/CQRS.Shared/bin/
